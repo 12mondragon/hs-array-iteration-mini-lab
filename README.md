@@ -22,7 +22,9 @@ Use `.each` to add ten to each number and then divide it by two. Store the new r
 Puts this new array.
 
 ### Reverse Presidents
+ ```
  presidents = ["George Washington", "John Adams", "Thomas Jefferson", "James Madison", "James Monroe", "John Quincy Adams"]
+ ```
 
 Use `.each` to print out a string with the name reversed for each of the presidents in the `presidents` array.
 

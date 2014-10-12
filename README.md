@@ -18,8 +18,7 @@ Use `.each` to print out the string "I'm so busy! I need to #{task}" for each of
 ```
 some_numbers =[2,52,19,46,1000]
 ```
-Use `.each` to add ten to each number and then divide it by two. Store the new returned result in an array called `numbers_plus_ten_halved`.
-Puts this new array.
+Use `.each` to add ten to each number and then divide it by two and puts this new number to the screen. 
 
 ### Reverse Presidents
  ```
@@ -30,5 +29,5 @@ Use `.each` to print out a string with the name reversed for each of the preside
 
 
 ### 10 Bottles of Milk on the Wall
-Create an array with the numbers 10 down to 0. Using `.each`, for every number puts the string "___ bottles of beer on the wall", filling in the blank with the number in your array.
+Create an array with the numbers 10 down to 0. Using `.each`, for every number puts the string "___ bottles of milk on the wall", filling in the blank with the number in your array.
 

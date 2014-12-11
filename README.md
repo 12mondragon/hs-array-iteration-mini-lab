@@ -10,7 +10,7 @@ farmer_tasks = ["Milk the cow", "Churn the butter", "Drive the tractor", "Peel p
 ```
 Use `.each` to print out the string "I'm so busy! I need to #{task}" for each of the tasks in the `farmer_tasks` array.
 
-### Add Ten and Divide By two
+### Add Ten and Divide By Two
 ```
 some_numbers =[2, 52, 19, 46, 1000]
 ```

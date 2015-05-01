@@ -26,11 +26,3 @@ Use `.each` to print out a string with the name reversed for each of the preside
 ### 10 Bottles of Milk on the Wall
 Create an array with the numbers 10 down to 0. Using `.each`, for every number `puts` the string "___ bottles of milk on the wall", filling in the blank with the number in your array.
 
-??? 
-
-# Enter your code here:
-
-?: Answer here:
-[-]
-
-???

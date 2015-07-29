@@ -1,9 +1,4 @@
----
-tags: kids, arrays, iteration
-languages: ruby
-level: 1
-type: lab
----
+
 ### I'm So Busy
 ```ruby
 farmer_tasks = ["Milk the cow", "Churn the butter", "Drive the tractor", "Peel potatoes", "Plant the corn"]

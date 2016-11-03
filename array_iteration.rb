@@ -4,7 +4,9 @@
 farmer_tasks = ["Milk the cow", "Churn the butter", "Drive the tractor", "Peel potatoes", "Plant the corn"]
 
 # Use .each to print out the string "I'm so busy! I need to #{task}" for each of the tasks in the farmer_tasks array.
+farmer_tasks.each do |task|
 
+end
 
 
 ### Add Ten and Divide By Two
